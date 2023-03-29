@@ -3,8 +3,7 @@ public class Patterns {
         pattern24(5);
 
     }
-
-    //    * * * * *
+//    * * * * *
 //    * * * * *
 //    * * * * *
 //    * * * * *
@@ -20,7 +19,7 @@ public class Patterns {
         }
     }
 
-    //    *
+//    *
 //    * *
 //    * * *
 //    * * * *
@@ -36,7 +35,7 @@ public class Patterns {
         }
     }
 
-    //    * * * * *
+//    * * * * *
 //    * * * *
 //    * * *
 //    * *
@@ -52,7 +51,7 @@ public class Patterns {
         }
     }
 
-    //    1
+//    1
 //    1 2
 //    1 2 3
 //    1 2 3 4
@@ -68,7 +67,7 @@ public class Patterns {
         }
     }
 
-    //    *
+//    *
 //    * *
 //    * * *
 //    * * * *
@@ -90,7 +89,7 @@ public class Patterns {
     }
 
 
-    //            *
+//            *
 //          * *
 //        * * *
 //      * * * *
@@ -109,7 +108,7 @@ public class Patterns {
 
     }
 
-    //    * * * * *
+ /    * * * * *
 //    * * * *
 //    * * *
 //    * *
@@ -127,7 +126,7 @@ public class Patterns {
         }
     }
 
-    //            *
+//            *
 //          * * *
 //        * * * * *
 //      * * * * * * *
@@ -145,7 +144,7 @@ public class Patterns {
         }
     }
 
-    //
+//
 //    * * * * * * * * *
 //     * * * * * * *
 //       * * * * *
@@ -165,7 +164,7 @@ public class Patterns {
 
     }
 
-    //        *
+//        *
 //       * *
 //      * * *
 //     * * * *
@@ -183,7 +182,7 @@ public class Patterns {
         }
     }
 
-    //   * * * * *
+//   * * * * *
 //    * * * *
 //     * * *
 //      * *
@@ -201,7 +200,7 @@ public class Patterns {
         }
     }
 
-    //    * * * * *
+//    * * * * *
 //     * * * *
 //      * * *
 //       * *
@@ -251,7 +250,7 @@ public class Patterns {
         }
     }
 
-    //    *********
+//    *********
 //     *     *
 //      *   *
 //       * *
@@ -279,7 +278,7 @@ public class Patterns {
 
     }
 
-    //       1
+//       1
 //      1 1
 //     1 2 1
 //    1 3 3 1
@@ -301,7 +300,7 @@ public class Patterns {
     }
 
 
-    //         1
+//         1
 //       2 1 2
 //     3 2 1 2 3
 //   4 3 2 1 2 3 4
@@ -396,7 +395,7 @@ public class Patterns {
     }
 
 
- //*****
+//*****
 //*   *
 //*   *
 //*   *
@@ -414,7 +413,7 @@ public class Patterns {
         }
     }
 
-    //    1
+//    1
 //    2 3
 //    4 5 6
 //    7 8 9 10
@@ -430,7 +429,7 @@ public class Patterns {
         }
     }
 
-    //1
+//1
 //01
 //101
 //0101
@@ -541,7 +540,7 @@ public class Patterns {
         }
     }
 
-    //  1 1 1 1 1
+//  1 1 1 1 1
 //  2 2 2 2
 //  3 3 3
 //  4 4
@@ -681,7 +680,7 @@ public class Patterns {
         }
     }
 
-    //    a
+//    a
 //    B c
 //    D e F
 //    g H i J
@@ -703,7 +702,7 @@ public class Patterns {
         }
     }
 
-    //    E D C B A
+//    E D C B A
 //    D C B A
 //    C B A
 //    B A
